@@ -19,8 +19,8 @@ var gulp                = require   ('gulp'),
 
 
 // Config of folder structure.
-var source = './src';
-var destination = './';
+var source = './src/';
+var destination = './css/';
 
 
 // config plumber notifications.
@@ -114,7 +114,7 @@ gulp.task('browser-sync', function (){
     ] ;
 
     browserSync.init (files, {
-        proxy: "simpla-noski",
+        proxy: "presta/uk/",
         notify: false
     });
 });

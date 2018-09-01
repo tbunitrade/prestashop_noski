@@ -35,22 +35,20 @@
           {/block}
         {/block}
       </section>
-        <section>
+        <section class="noskiHome">
+
             <div class="row">
 
                 <div class="col-sm-12 col-md-4">
 
                     <ul class="homeCategorymenu">
                         <li class="menu-item"><a href="/uk/10-tm-furia">ТМ Furia:</a></li>
-
                         <li class="menu-item"><a href="/uk/14-tm-conte">ТМ Conte::</a></li>
                         <li class="menu-item"><a href="">ТМ Акцент:</a></li>
                         <li class="menu-item"><a href="">ТМ Бонус:</a></li>
                         <li class="menu-item"><a href="">ТМ Дюна:</a></li>
                         <li class="menu-item"><a href="">ТМ Легка хода ОПТ:</a></li>
                         <li class="menu-item"><a href="">ТМ Легка хода розница/мелкий опт:</a></li>
-
-
                     </ul>
 
                 </div>
@@ -63,8 +61,7 @@
                         ТМ Акцент, ТМ Бонус, ТМ Легка хода, ТМ Lightstep, ТМ Дюна, TM Furia
                     </p>
 
-
-                    <p>
+                    <p class="pClassic">
                         У нас Вы можете купить оптом:  крупным и мелкий опт:
                         <br>
                         Носки мужские, женские, детские; колготки для детей, колготы женские. В ассортименте так же присутствуют гольфы осенние, зимние, мужские, женские и детские; следы; леггинсы; чулки женские (полиамид), носки спортивные.
