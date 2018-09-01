@@ -49,17 +49,5 @@ config
 controllers
 docs
 download
-img
-js
-localization
-mails
-override
-pdf
-src
-tools
-translations
-upload
-var
-vendor
-webservice
+
 
