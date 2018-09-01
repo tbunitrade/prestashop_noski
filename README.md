@@ -49,6 +49,11 @@ End with an example of getting some data out of the system or using it for a lit
 Start gulp, in folder assets 
 
 
+## DataBase mysql connections here  'database_engine' => 'InnoDB',
+
+app/config/parameters.php
+
+
 
 ## Authors
 
@@ -62,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* $ git rm --cached app/config/parameters.php  - this file ignore in index for Junior Builder.
 * Inspiration
 * etc
 hello world )
