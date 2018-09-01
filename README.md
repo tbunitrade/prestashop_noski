@@ -1,21 +1,3 @@
-# 
-
-
-
-
-# npm install -g
-# npm install
-# npm install gulp -g (some times for first time use)
-# gulp
-
-modification # gulp easy
-look in gulpfile.js for more info, how to create img and more data fonts etc
- 
-
-gulp ready to create front end.
-
-
-
 # prestashop_noski
 
 Cms prestashop, custom classic theme, give some modules etc. (mvp)
