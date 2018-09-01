@@ -63,7 +63,7 @@ gulp.task('sass', function ( ){
         .pipe(autoprefixer())
         .pipe(cleanCSS({compatibility: 'ie9'}))
         .pipe(sourcemaps.write('./'))
-        .pipe(gulp.dest(destination + '/'))
+        .pipe(gulp.dest(destination + '/css'))
         .pipe(browserSync.stream());
 
 });
@@ -138,8 +138,8 @@ gulp.task('browser-sync-server', function (){
 gulp.task('browser-sync-jhonny', function (){
     browserSync.init ( {
         open: 'external',
-        proxy: "giftname-frontend.lara",
-        host: "giftname-frontend.lara",
+        proxy: "name.local",
+        host: "name.local",
         port: 3005
     });
 });
@@ -175,7 +175,7 @@ gulp.task('php', function () {
  * Smush Images from src and put them in dist.
  * Will not run automatically, need to run it manually with "gulp smush"
  */
-gulp.task('smush', function () {
+gulp.task('image', function () {
     gulp.src(source +'/img/**/*.{png,jpg,jpeg,gif,svg,ico}')
         .pipe(plumber(plumberErrorHandler))
         .pipe(imagemin ({
@@ -227,11 +227,10 @@ gulp.task ('watchsassphp', function (){
  * Basic Commands
  * ----------------
  * gulp - Alex's workflow.
- * gulp jhonny - servers workflow
  *
  * Manual Commands
  * ------------------
- * gulp smush - will optimize all images.
+ * gulp image - will optimize all images.
  * gulp delete-dist - will delete the dist/output folder, after this command you should call gulp to rebuild it.
  *
  *
@@ -291,5 +290,5 @@ gulp.task ('jhonny',[
 
 // to refresh the project
 // gulp delete-dist
-// gulp smush
+// gulp image
 // gulp
