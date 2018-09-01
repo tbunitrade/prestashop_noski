@@ -42,12 +42,5 @@ Thumbs.db
 #ignore next folder
 node_modules
 themes/classic/assets/node_modules
-cache
-app
-bin
-config
-controllers
-docs
-download
 
 
