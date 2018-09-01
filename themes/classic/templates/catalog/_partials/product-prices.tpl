@@ -55,6 +55,43 @@
               </span>
             {/if}
           {/if}
+
+            <!-- here start more price field-->
+            <div class="row" >
+
+                <div class="col-xs-6 col-md-6">			В магазинах Украины (розничная цена)</div>
+                <div class="col-xs-6 col-md-6" content="{$product.price_amount}">{$product.price}</div>
+            </div>
+            <div class="row">
+                <div class="col-xs-6 col-md-6">
+                    &nbsp;Для клиентов сайта заказ от 250 грн </div>
+                <div class="col-xs-6 col-md-6">
+                    <div id="target250"></div> грн
+                    <span style="color: rgb(255, 0, 0);">
+													<strong>СТАРАЯ ЦЕНА</strong>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-6 col-md-6">
+                    Для клиентов сайта заказ от <strong>200 грн</strong>
+                </div>
+                <div class="col-xs-6 col-md-6">
+                    <strong id="target200"></strong> грн <strong>ЦЕНА С ... МАРТА</strong>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    Для предпринимателей ОПТ от 1000 грн
+                </div>
+
+                <div class="col-md-6">
+                    Детали в разделе " ЦЕНЫ ОПТ "
+                </div>
+
+            </div>
+
+            <!-- end more proce field -->
         </div>
 
         {block name='product_unit_price'}
