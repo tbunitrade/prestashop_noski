@@ -52,7 +52,7 @@ Start gulp, in folder assets
 
 ## Authors
 
-* **Sonich Oleksadr** - *Initial work* - [PurpleBooth](https://github.com/tbunitrade)
+* **Sonich Oleksadr** - *Initial work* - [Platinum-Trade](https://github.com/tbunitrade)
 
 
 
