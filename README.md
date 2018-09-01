@@ -49,6 +49,11 @@ End with an example of getting some data out of the system or using it for a lit
 Start gulp, in folder assets 
 
 
+## DataBase mysql connections here  'database_engine' => 'InnoDB',
+
+app/config/parameters.php
+
+
 
 ## Authors
 
