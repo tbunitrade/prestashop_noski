@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-01 19:40:18
+/* Smarty version 3.1.32, created on 2018-09-02 11:36:52
   from 'module:pscurrencyselectorpscurre' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b8ac0f2d3c283_60466553',
+  'unifunc' => 'content_5b8ba124bc0dd1_23502637',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b8ac0f2d3c283_60466553 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b8ba124bc0dd1_23502637 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin D:\server\OSPanel\domains\presta/themes/classic/modules/ps_currencyselector/ps_currencyselector.tpl -->
 <div id="_desktop_currency_selector">
   <div class="currency-selector dropdown js-dropdown">

@@ -43,6 +43,5 @@ Thumbs.db
 node_modules
 themes/classic/assets/node_modules
 
-app/config
-app
+
 

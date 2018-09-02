@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-01 19:04:19
+/* Smarty version 3.1.32, created on 2018-09-02 11:36:33
   from 'D:\server\OSPanel\domains\presta\themes\classic\templates\_partials\javascript.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b8ab883d35973_69538777',
+  'unifunc' => 'content_5b8ba111934189_42785979',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b8ab883d35973_69538777 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b8ba111934189_42785979 (Smarty_Internal_Template $_smarty_tpl) {
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['javascript']->value['external'], 'js');
 if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['js']->value) {

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-01 19:31:26
+/* Smarty version 3.1.32, created on 2018-09-02 11:34:38
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\default\template\nav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b8abede5edaa3_18501303',
+  'unifunc' => 'content_5b8ba09e819bf7_18280143',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b8abede5edaa3_18501303 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b8ba09e819bf7_18280143 (Smarty_Internal_Template $_smarty_tpl) {
 ?><nav class="nav-bar d-none d-md-block" role="navigation" id="nav-sidebar">
 	<span class="menu-collapse">
 		<i class="material-icons">chevron_left</i>
