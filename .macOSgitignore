@@ -44,3 +44,13 @@ node_modules
 dist
 dummy
 .idea
+app/config/parameters.php
+
+~/parameters.php
+
+app/*
+
+~/app/config/parameters.php
+
+app/*/
+

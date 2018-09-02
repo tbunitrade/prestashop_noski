@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-02 11:34:36
+/* Smarty version 3.1.32, created on 2018-09-02 19:15:56
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\default\template\helpers\modules_list\modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b8ba09ced5773_75703597',
+  'unifunc' => 'content_5b8c0cbcbefd19_18705222',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b8ba09ced5773_75703597 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b8c0cbcbefd19_18705222 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal fade" id="modules_list_container">
 	<div class="modal-dialog">
 		<div class="modal-content">
