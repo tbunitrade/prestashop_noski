@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * $ git rm --cached app/config/parameters.php  - this file ignore in index for Junior Builder.
-* Inspiration
+* After install set up all files 777 and in root change in file .htaccess, url ^presta$ on your link ^prestashop.xn----7sbbighlkm9ahj2air.xn--j1amh$
 * etc
 hello world )
 
