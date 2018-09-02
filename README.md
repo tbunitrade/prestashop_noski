@@ -18,8 +18,14 @@ in my version classic\assets gulpfile
 
 ### Prerequisites
 
-to start npm install, be sure that you use 5.6.0   or install it  npm install -g npm@5.6 
+to start npm install, be sure that you use 5.6.0   or install it  
+```
 node -v must be 6.
+npm install -g npm@5.6 
+```
+
+Be sure that you use on your localhost server (openserver etc) 
+php 5.6, node 6.0(6.14.4), npm 5.6.0 
 
 ```
 try npm -v, node -v
@@ -28,8 +34,6 @@ try npm -v, node -v
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 
 ```
 npm install -g 
