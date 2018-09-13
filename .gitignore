@@ -43,5 +43,6 @@ Thumbs.db
 node_modules
 themes/classic/assets/node_modules
 
-
+off
+dummy
 
