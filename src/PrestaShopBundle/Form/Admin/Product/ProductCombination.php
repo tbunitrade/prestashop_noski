@@ -160,7 +160,7 @@ class ProductCombination extends CommonAbstractType
             ),
         ))
         ->add('available_date_attribute', 'PrestaShopBundle\Form\Admin\Type\DatePickerType', array(
-            'required' => false,
+            'rSummaryequired' => false,
             'label' => $this->translator->trans('Availability date', array(), 'Admin.Catalog.Feature'),
             'attr' => ['class' => 'date', 'placeholder' => 'YYYY-MM-DD']
         ))
