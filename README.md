@@ -18,8 +18,14 @@ in my version classic\assets gulpfile
 
 ### Prerequisites
 
-to start npm install, be sure that you use 5.6.0   or install it  npm install -g npm@5.6 
+to start npm install, be sure that you use 5.6.0   or install it  
+```
 node -v must be 6.
+npm install -g npm@5.6 
+```
+
+Be sure that you use on your localhost server (openserver etc) 
+php 5.6, node 6.0(6.14.4), npm 5.6.0 
 
 ```
 try npm -v, node -v
@@ -28,8 +34,6 @@ try npm -v, node -v
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 
 ```
 npm install -g 
@@ -51,9 +55,38 @@ Start gulp, in folder assets
 
 ## DataBase mysql connections here  'database_engine' => 'InnoDB',
 
-app/config/parameters.php
+you must create manualy file php here - app/config/parameters.php
+
+```
+<?php return array (
+  'parameters' =>
 
 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'namedb',
+    'database_user' => 'logindb',
+    'database_password' => 'passworddb',
+    'database_prefix' => 'os_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'zv1997GhjixOanMRw2UYYiEsAdI7nKa41GuvgkYkI9KBTQC5JUqf3Fi5',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2018-08-26',
+    'locale' => 'ru-RU',
+    'cookie_key' => 'cs5KLUO6i1GJcgwDMtavRMcUXVyr2VgkvAXFECrz5x2V5kkMCJMDMJz4',
+    'cookie_iv' => 'NbRpa8Ry',
+    'new_cookie_key' => 'def000006adaca9e1e4c9c732856b9b55f569d1966029a45d291ddf5a4157192ebf20b86b3110c27bc580fd4e48c8a49bfc953ed5c867d30068064718fb7cd1eb94045ee',
+  ),
+);
+
+
+```
 
 ## Authors
 
@@ -68,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * $ git rm --cached app/config/parameters.php  - this file ignore in index for Junior Builder.
-* Inspiration
+* After install set up all files 777 and in root change in file .htaccess, url ^presta$ on your link ^prestashop.xn----7sbbighlkm9ahj2air.xn--j1amh$
 * etc
 hello world )
 
