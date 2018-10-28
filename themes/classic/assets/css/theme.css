@@ -11681,7 +11681,9 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
 
 .footer-container {
     margin-top: 1.25rem;
+    margin-top: 0;
     padding-top: 1.25rem;
+    padding-top: 0;
     overflow: hidden;
     box-shadow: 2px 2px 11px 0 rgba(0, 0, 0, .3)
 }
@@ -11947,9 +11949,9 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
 }
 
 #header .header-nav {
-    border-bottom: 2px solid #f1f1f1;
+    border-bottom: 1px solid #f1f1f1;
     max-height: 50px;
-    margin-bottom: 30px
+    margin-bottom: 0px
 }
 
 #header .header-nav #menu-icon {
@@ -12061,7 +12063,7 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
 }
 
 #header .header-top {
-    padding-bottom: 1.25rem
+    /*padding-bottom: 1.25rem*/
 }
 
 #header .header-top>.container {
@@ -12087,6 +12089,10 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
     float: right
 }
 
+#header .header-nav .blockcart .header span {
+    font-size: 0.8rem;
+}
+
 #header .top-menu-link {
     margin-left: 1.25rem
 }
@@ -12099,7 +12105,7 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
     background: #f1f1f1;
     background: #1c1c82;
     /*box-shadow: inset 0 2px 5px 0 rgba(0, 0, 0, .11);*/
-    padding-top: 1.563rem
+   /* padding-top: 1.563rem*/
 }
 
 #wrapper .banner {
@@ -12164,7 +12170,8 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
 }
 
 #main .page-footer {
-    margin-bottom: 1.563rem
+    margin-bottom: 1.563rem;
+    margin-bottom: 0;
 }
 
 #notifications ul {
@@ -12172,7 +12179,7 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
 }
 
 #footer {
-    padding-top: 2.5rem
+    padding-top: 0rem
 }
 
 @media (max-width:1199px) {

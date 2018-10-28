@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-01 19:27:44
+/* Smarty version 3.1.32, created on 2018-10-28 21:26:59
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\default\template\helpers\kpi\row.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b8abe00a64548_64019152',
+  'unifunc' => 'content_5bd60d83aa48d4_26956920',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'cdf75fcb440344260f1439d79d650560ac48e3db' => 
     array (
       0 => 'D:\\server\\OSPanel\\domains\\presta\\admin993rzsfnh\\themes\\default\\template\\helpers\\kpi\\row.tpl',
-      1 => 1535281635,
+      1 => 1540748383,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b8abe00a64548_64019152 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd60d83aa48d4_26956920 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="panel kpi-container">
 	<?php if ($_smarty_tpl->tpl_vars['refresh']->value) {?>
 		<div class="kpi-refresh"><button class="close refresh" type="button" onclick="refresh_kpis(true);"><i class="process-icon-refresh" style="font-size:1em"></i></button></div>

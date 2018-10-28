@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-01 19:27:06
+/* Smarty version 3.1.32, created on 2018-10-28 22:09:19
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\new-theme\template\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b8abddaeee6e7_05933414',
+  'unifunc' => 'content_5bd6176f3c6e68_36401226',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'e565923f24fc9e80d0f47a05aa8e2b0a12c11b79' => 
     array (
       0 => 'D:\\server\\OSPanel\\domains\\presta\\admin993rzsfnh\\themes\\new-theme\\template\\header.tpl',
-      1 => 1535281627,
+      1 => 1540748387,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b8abddaeee6e7_05933414 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd6176f3c6e68_36401226 (Smarty_Internal_Template $_smarty_tpl) {
 ?><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=0.75, user-scalable=0">
 <meta name="apple-mobile-web-app-capable" content="yes">

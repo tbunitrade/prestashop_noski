@@ -1,0 +1,3 @@
+ID;Active (0/1);Name *;Categories (x,y,z...);Price tax included;On sale (0/1);Manufacturer;Quantity;Short description;Description;Tags (x,y,z...);Text when in stock;Text when backorder allowed;Available for order (0 = No, 1 = Yes);Show price (0 = No, 1 = Yes);Image URLs (x,y,z...);Image alt texts (x,y,z...)
+15;1;noski ;ТМ Бонус;10;1;TM Bonus;1000;<p>Носки мои текст короткий.</p>;<p>Полный текст товара</p>;носки;Наличии;;1;1;http://localhost/prestashop/img/brands/bonus.png;First alt text
+51;1;noski  fda;ТМ Бонус;10;1;TM Bonus;1000;<p>Носки мои текст короткий.</p>;<p>Полный текст товара</p>;носки;Наличии;;1;1;http://localhost/prestashop/img/brands/bonus.png;First alt text

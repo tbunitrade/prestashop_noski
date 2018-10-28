@@ -11,7 +11,34 @@
 
   }
 
-  .container-fluid {
+  .container {
+
+    position:relative;
+
+    &:after{
+      content:'';
+      display:block;
+      width:24px;
+      height:100vh;
+      background: green;
+      background: url("../img/shadow_right.jpg");
+      background-repeat: repeat-y;
+      position:absolute;
+      top:0px;
+      right:-10px;
+
+    }
+    &:before {
+      content:'';
+      display:block;
+      width:24px;
+      height:100vh;
+      background: url("../img/shadow_left.jpg");
+      background-repeat: repeat-y;
+      position:absolute;
+      top:0px;
+      left:-15px;
+    }
 
   }
 
@@ -40,7 +67,7 @@
   .container {
 
     @media (min-width: $screen-md-min) {
-      width: 960px;
+
     }
   }
 

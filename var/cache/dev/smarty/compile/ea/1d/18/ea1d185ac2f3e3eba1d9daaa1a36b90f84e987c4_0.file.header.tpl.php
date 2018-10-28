@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-08-27 12:55:22
+/* Smarty version 3.1.32, created on 2018-10-28 22:04:25
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\default\template\controllers\login\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b83ca8a2ffe73_19023682',
+  'unifunc' => 'content_5bd61649efe750_33952455',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'ea1d185ac2f3e3eba1d9daaa1a36b90f84e987c4' => 
     array (
       0 => 'D:\\server\\OSPanel\\domains\\presta\\admin993rzsfnh\\themes\\default\\template\\controllers\\login\\header.tpl',
-      1 => 1535281633,
+      1 => 1540748383,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b83ca8a2ffe73_19023682 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd61649efe750_33952455 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 lt-ie6"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie7"> <![endif]-->

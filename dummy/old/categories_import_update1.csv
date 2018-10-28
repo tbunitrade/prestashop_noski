@@ -1,0 +1,11 @@
+Category ID;Active (0/1);Name *;Parent category;Root category (0/1);Description;Meta title;Meta keywords;Meta description;URL rewritten;Image URL
+1;0;Laptops;Home;0;The latest Intel processor, a bigger hard drive, plenty of memory, and even more new features all fit inside just one liberating inch. The new Mac laptops have the performance, power, and connectivity of a desktop computer. Without the desk part.;Meta title-Laptops;Meta keywords-Laptops;Meta description-Laptops;laptops;http://yourlinktotheimage.com/img1002.jpg
+2;1;Kolgotki zenskie;Home;0;Kolgotki zenskie русский;Meta title;;;;
+3;1;Kolgotki detskie;Home;;Kolgotki detskie <p>кирилица</p>;Meta title;;;;
+4;1;Chulki zenskie;Home;;Chulki zenskie;Meta title;;;;
+5;1;Noski detskie;Home;;Noski detskie;Meta title;;;;
+6;1;Noski zenskie;Home;;Noski zenskie;Meta title;;;;
+7;1;Noski muzkie;Home;;Noski muzkie;Meta title;;;;
+8;1;Golfy-zakolenki zenskie;Home;;Golfy-zakolenki zenskie;Meta title;;;;
+9;1;Leginsi muzkie;Home;;Leginsi muzkie;Meta title;;;;
+10;1;Leginsi detskie;Home;;Leginsi detskie;Meta title;;;;
