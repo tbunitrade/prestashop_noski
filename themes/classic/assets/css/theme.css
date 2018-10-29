@@ -7155,7 +7155,8 @@ a.text-gray-dark:hover {
     text-rendering: optimizeLegibility;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-feature-settings: "liga";
-    font-feature-settings: "liga"
+    font-feature-settings: "liga";
+    color:white;
 }
 
 body,
@@ -12245,10 +12246,10 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
         margin-top: 1rem
     }
     #header {
-        background: #f1f1f1
+        /*background: #f1f1f1*/
     }
     #header .header-nav {
-        background: #fff;
+        /*background: #fff;*/
         margin-bottom: .625rem;
         color: #232323
     }
@@ -12286,7 +12287,7 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
         display: none
     }
     #header .header-top {
-        background: #f1f1f1;
+        /*background: #f1f1f1;*/ 
         padding-bottom: 0
     }
     #header .header-top a[data-depth="0"] {
