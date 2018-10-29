@@ -7159,6 +7159,7 @@ a.text-gray-dark:hover {
     color:white;
 }
 
+
 body,
 html {
     height: 100%
@@ -12287,7 +12288,11 @@ li.product-flag:not(.discount):not(.on-sale)~li.product-flag {
         display: none
     }
     #header .header-top {
+<<<<<<< HEAD
         /*background: #f1f1f1;*/ 
+=======
+        /*background: #f1f1f1;*/
+>>>>>>> be99c613d9528fb4ad851ce82f74b36714d9918f
         padding-bottom: 0
     }
     #header .header-top a[data-depth="0"] {
