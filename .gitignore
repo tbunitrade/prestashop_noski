@@ -46,6 +46,5 @@ themes/classic/assets/node_modules
 app/config
 app
 parameters.php
-cache
-var
+
 
