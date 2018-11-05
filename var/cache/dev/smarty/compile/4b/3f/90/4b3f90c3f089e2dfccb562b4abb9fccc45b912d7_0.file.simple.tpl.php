@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-08-28 09:38:54
+/* Smarty version 3.1.32, created on 2018-10-30 08:35:47
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\default\template\helpers\uploader\simple.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b84edfe548c00_04329673',
+  'unifunc' => 'content_5bd7fbc3b6a2d4_34783996',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4b3f90c3f089e2dfccb562b4abb9fccc45b912d7' => 
     array (
       0 => 'D:\\server\\OSPanel\\domains\\presta\\admin993rzsfnh\\themes\\default\\template\\helpers\\uploader\\simple.tpl',
-      1 => 1535281634,
+      1 => 1540748384,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b84edfe548c00_04329673 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bd7fbc3b6a2d4_34783996 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['files']->value) && count($_smarty_tpl->tpl_vars['files']->value) > 0) {?>
 	<?php $_smarty_tpl->_assignInScope('show_thumbnail', false);?>
 	<?php

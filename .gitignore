@@ -47,5 +47,7 @@ app/config
 app
 parameters.php
 var/cache
+var
+cache
 
 
