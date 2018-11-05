@@ -49,5 +49,6 @@ parameters.php
 var/cache
 var
 cache
+.htaccess
 
 
