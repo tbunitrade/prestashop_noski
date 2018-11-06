@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-08-29 18:10:38
+/* Smarty version 3.1.32, created on 2018-11-05 20:07:36
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\default\template\controllers\modules\content-legacy.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b86b76edd90c4_96518858',
+  'unifunc' => 'content_5be086e8eacbf7_97452858',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '3306e1ca9a7cb4c8ef45042bb0f163b79d1df1ff' => 
     array (
       0 => 'D:\\server\\OSPanel\\domains\\presta\\admin993rzsfnh\\themes\\default\\template\\controllers\\modules\\content-legacy.tpl',
-      1 => 1535281633,
+      1 => 1540748383,
       2 => 'file',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:controllers/modules/page.tpl' => 1,
   ),
 ),false)) {
-function content_5b86b76edd90c4_96518858 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5be086e8eacbf7_97452858 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['module_content']->value)) {?>
 	<?php echo $_smarty_tpl->tpl_vars['module_content']->value;?>
 

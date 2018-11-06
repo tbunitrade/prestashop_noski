@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-10-30 10:13:28
+/* Smarty version 3.1.32, created on 2018-11-05 20:06:55
   from 'D:\server\OSPanel\domains\presta\modules\welcome\views\contents\end.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bd812a8c97ba6_87801859',
+  'unifunc' => 'content_5be086bf890751_50288628',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bd812a8c97ba6_87801859 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5be086bf890751_50288628 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="onboarding-welcome" class="modal-body">
     <div class="col-12">

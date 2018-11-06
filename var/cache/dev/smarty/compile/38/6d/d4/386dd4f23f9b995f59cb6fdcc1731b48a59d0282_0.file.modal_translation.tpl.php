@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-08-29 18:10:15
+/* Smarty version 3.1.32, created on 2018-11-05 20:07:26
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\default\template\controllers\modules\modal_translation.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b86b757e1eac8_92725492',
+  'unifunc' => 'content_5be086de3e37b1_61888208',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '386dd4f23f9b995f59cb6fdcc1731b48a59d0282' => 
     array (
       0 => 'D:\\server\\OSPanel\\domains\\presta\\admin993rzsfnh\\themes\\default\\template\\controllers\\modules\\modal_translation.tpl',
-      1 => 1535281633,
+      1 => 1540748383,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b86b757e1eac8_92725492 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5be086de3e37b1_61888208 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal-body">
 	<div class="input-group">
 		<button type="button" class="btn btn-default dropdown-toggle" tabindex="-1" data-toggle="dropdown">

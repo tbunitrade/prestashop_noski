@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-08-29 18:10:16
+/* Smarty version 3.1.32, created on 2018-11-05 20:07:26
   from 'D:\server\OSPanel\domains\presta\admin993rzsfnh\themes\default\template\controllers\modules\modal_not_trusted.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b86b758232405_10565865',
+  'unifunc' => 'content_5be086de55cad8_51926096',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '62a8fdbcf85ac7dc4cfacd72359bf7cf2f1d3c87' => 
     array (
       0 => 'D:\\server\\OSPanel\\domains\\presta\\admin993rzsfnh\\themes\\default\\template\\controllers\\modules\\modal_not_trusted.tpl',
-      1 => 1535281633,
+      1 => 1540748383,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b86b758232405_10565865 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5be086de55cad8_51926096 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="untrusted-content-action">
 
